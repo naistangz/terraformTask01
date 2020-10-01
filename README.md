@@ -5,13 +5,13 @@
 - Terraform a cloud environment 
 
 ## Subtasks
--[x]Terraform a load balanced front end application in AWS
--[x]The VPC should contain at least 2 instances 
--[x]The instances should be able to scale across different availability zones
--[x]The VPC should be split into the relevant subnets 
--[x]The hosts should be running on Linux servers 
--[x]The instances should be running on a web server 
--[]The Terraform code should be modularised
+- [x]Terraform a load balanced front end application in AWS
+- [x]The VPC should contain at least 2 instances 
+- [x]The instances should be able to scale across different availability zones
+- [x]The VPC should be split into the relevant subnets 
+- [x]The hosts should be running on Linux servers 
+- [x]The instances should be running on a web server 
+- []The Terraform code should be modularised
 
 
 ## Design Phase
@@ -22,8 +22,10 @@
 
 ---
 ![Terraformed_AWS_Plan](images/loadbalancedwithNginxAtang.png)
+> Designed using [Lucid Charts](https://www.lucidchart.com/)
 ---
 ![Terraformed_AWS_Plan_3D](images/loadbalancedvisualAT.png)
+> Designed using [Cloud Craft](https://www.cloudcraft.co/)
 ---
 
 
