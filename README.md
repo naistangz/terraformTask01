@@ -252,7 +252,7 @@ Terraform will perform the following actions:
       + id          = (known after apply)
       + key_name    = "test_tang"
       + key_pair_id = (known after apply)
-      + public_key  = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDAMb8Nxx9f8Zxh0s2W2XBkSPGqpVKu5LUSadSe8pFaUhw1MORHYAYNfNNVghyOqoh223OiNvvR1AivJ1UDBfwN6XO0wsU+zqj+AfRwX0XF1gmZKg3LrKZ/qm8kqgmuHAyjEJJRYj6PRh0LRIdpoZvrPcGrG5yOKAwQsF2Nu5dIY/M6w19umoNsqaVUX59wu4K3Eg6mVvMplzxx6z2X0aCs0BItNoYSNZBE8OV1DZRnmxAw83d4jsDJqPaHx1vOiQOQVS7xXWhe83PhQu/SkFAxchRyOMnYNUBIOSBpAlH4NRF3oJA0fUSKDP+CPCJ3w2GHDsK2rFtWGp0hljH2hQVdtYWoCSeUw6+59HaHY5yOh/uGSazrOb5x/OS6iVYtUR13N+/r2exYx9Gp3mVCHW9QXlALHPHMJC/DGODquB02D61x4x+qFRuI9lpBwiiY9eAZbjN70i/aDPMFKPH/kkf8gHeH1YFuyHoTBjG8vZ875sA1XtMmx2j5nhE6cFKLGzCNCVzKpaG3lT+IF9r0wPSudAdWWRUKnTpLpiCbCz1pDCiycOdk0KaJVnwmsvYFxLoZcSaEdFg+MyiBITo47OHpr1Bs2gpINKWtNrcYRLlbskPLu7GEVs3rHXCi0NsHp5y2EhWsiqOvB++Bx5Zkq9UqtuSNvtjRYBNxyuErJ7+WXQ=="
+      + public_key  = "ssh-rsa SECRETKEY=="
     }
 
 ```
