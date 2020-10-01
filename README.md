@@ -11,7 +11,7 @@
 - [x] The VPC should be split into the relevant subnets 
 - [x] The hosts should be running on Linux servers 
 - [x] The instances should be running on a web server 
-- [] The Terraform code should be modularised
+- [ ] The Terraform code should be modularised
 
 
 ## Design Phase
